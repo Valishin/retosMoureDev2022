@@ -7,4 +7,4 @@ const fizzBuzz = () => {
     }
 }
 
-fibonacci()
+primeNumbers()

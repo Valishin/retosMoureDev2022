@@ -6,4 +6,4 @@ const isAnagram = (string1, string2) => {
     else return false
 }
 
-console.log(fibonacci('roma', 'AMOrs'))
+console.log(primeNumbers('roma', 'AMOrs'))

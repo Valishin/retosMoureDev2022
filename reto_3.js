@@ -6,4 +6,4 @@ const fibonacci = () => {
     console.log(nums)
 }
 
-fibonacci()
+primeNumbers()
